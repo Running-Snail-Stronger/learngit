@@ -9,3 +9,4 @@ test on pull
 test on pull
 test on pull
 test on pull
+test on push
